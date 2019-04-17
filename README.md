@@ -5,7 +5,7 @@ Follow the below documentation to run the Ethereum petshop example on Hyplerger 
 
 **Make sure to run all snak commands in the hyperledger-burrow-pet-shop' Directory.**
 
-** This works only on Linux **
+**This works only on Linux**
 
 ## Reqirements.
 * Git
@@ -24,7 +24,7 @@ then to install nodejs
 
 ```$ sudo apt install nodejs```
 
-Now that you have Git, nodejs and npm installed we need to clone the Hyperledger Burrow petshop directory to the local machne.
+Now that you have Git, nodejs and npm installed we need to clone the Hyperledger Burrow petshop directory to the local machine.
 ```$ git clone https://github.com/Villem-OskarOssip/hyperledger-burrow-pet-shop.git```
 ```$ cd hyperledger-burrow-pet-shop```
 
@@ -40,7 +40,7 @@ After snak is installed lets start setting up the blockchain.
 
 ## setup
 
-Open terminal in your hyperledger-burrow-pet-shop Directory and type.
+Open terminal in your hyperledger-burrow-pet-shop directory and type.
 
 ```./monax-keys server```
 
@@ -52,7 +52,7 @@ go to hyperledger-burrow-pet-shop Directory and enter
 
 ```$ snak import_keys account_list.json```
 
-After the keys are imported. You can now run Hyperledger burrow.
+After the keys are imported. You can now run Hyperledger Burrow.
 
 ```$ snak run_burrow```
 
