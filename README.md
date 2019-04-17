@@ -1,4 +1,4 @@
-# PetShop Example using Hyperledger Burrow
+#Hyperledger Burrow example project
 This is an example project that is running on EVM. A solidy contract has been written for hyperledger burrow. This project has been created in educational purpose.
 
 Follow the below documentation to run the Ethereum petshop example on Hyplerger Borrow.
