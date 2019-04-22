@@ -11,6 +11,8 @@ Follow the below documentation to run the Ethereum petshop example on Hyplerger 
 * Git
 * Nodejs
 
+**If you don't have Linux OS then install [VirtualBox](https://www.virtualbox.org/) and run [Ubuntu](http://releases.ubuntu.com/16.04/ubuntu-16.04.6-desktop-amd64.iso) on it. Detailed instructions can be found from this tutorial [video](https://www.youtube.com/watch?v=QbmRXJJKsvs).**
+
 ## Installations
 To install git
 
