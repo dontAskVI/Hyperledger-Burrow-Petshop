@@ -5,7 +5,7 @@ Follow the below documentation to run the Ethereum petshop example on Hyplerger 
 
 **Make sure to run all snak commands in the hyperledger-burrow-pet-shop' Directory.**
 
-**This works only on Linux**
+**This works only on Linux (Ubuntu 16.04)**
 
 ## Reqirements.
 * Git
