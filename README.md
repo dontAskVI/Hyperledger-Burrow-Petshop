@@ -7,6 +7,8 @@ Follow the below documentation to run the Ethereum petshop example on Hyplerger 
 
 **This works only on Linux (Ubuntu 16.04)**
 
+**Original UI was creted by [Truffle](https://truffleframework.com/). Some moderate changes have been done to make it work with Hyperledger Burrow**
+
 ## Reqirements.
 * Git
 * Nodejs
